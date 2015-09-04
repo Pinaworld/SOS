@@ -5,6 +5,15 @@
 
     <link rel="stylesheet" href="CSSindex.css">
 
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
     <script src="JSindex.js"></script>
 
     <title>Connexion - SOS Partenaires</title>
@@ -20,7 +29,7 @@
                             <a href="#" class="active" id="login-form-link">Connexion</a>
                         </div>
                         <div class="col-xs-6">
-                            <a href="#" id="register-form-link"></a>
+                            <a href="#" id="register-form-link">S'enregistrer</a>
                         </div>
                     </div>
                     <hr>
