@@ -1,26 +1,3 @@
-<?php
-
-$auth = 0;
-/**
- *  TRAITEMENT DU FORMULAIRE
- */
-
-include 'lib/includes.php';
-if(isset($_POST['username']) && isset ($_POST['password'])){
-    $password = sha1($_POST['password']);
-    $username = $db->quote($_POST['username']);
-    $select = $db->query("SELECT * FROM users WHERE username=$username AND password ='$password'");
-    if($select->rowCount() > 0){
-        $_SESSION['Auth']= $select->fetch();
-        setFlash('Vous êtes connecté');
-        header('location:' . WEBROOT . '/' . 'index.php');
-        die();
-    }
-
-}
-
-?>
-
 
 <!DOCTYPE html>
 <html>
