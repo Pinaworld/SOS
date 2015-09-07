@@ -1,6 +1,14 @@
 body {
     padding-top: 90px;
 }
+/*ici on va creer la police que l'on appelera sport*/
+@font-face {
+    font-family: 'sport';
+    src: url('font/Sports%20World-Regular.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .panel-login {
     border-color: #ccc;
     -webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
@@ -97,3 +105,8 @@ body {
     background-color: #1CA347;
     border-color: #1CA347;
 }
+
+.h1-title {
+    font-family: "Sport", sans-serif;
+}
+
