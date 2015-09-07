@@ -4,6 +4,8 @@ $auth = 0;
 /**
  *  TRAITEMENT DU FORMULAIRE
  */
+
+include 'lib/includes.php';
 if(isset($_POST['username']) && isset ($_POST['password'])){
     $password = sha1($_POST['password']);
     $username = $db->quote($_POST['username']);
