@@ -36,24 +36,8 @@
 </head>
 <body>
 
-<div class="row">
-    <div class="#">
-        <h1><img src="img/logo.png"/></h1>
-    </div>
 
-    <br />
-
-    <div class="large-10 columns">
-        <ul class="right button-group">
-            <li><a href="#" class="button">Partenaires disponibles</a></li>
-            <li><a href="#" class="button">Mes Sports</a></li>
-            <li><a href="#" class="button">Mon compte</a></li>
-            <li><a href="#" class="button">Déconnexion</a></li>
-        </ul>
-    </div>
-</div>
-
-
+<?php include "lib/header.php"; ?>
 
 
 
@@ -61,7 +45,7 @@
     <div class="large-12 columns">
         <div id="slider">
             <img src="img/sport1.jpg" />
-            <img src="img/sport2.jpg" />
+           <!-- <img src="img/sport2.jpg" /> -->
         </div>
 
         <hr/>

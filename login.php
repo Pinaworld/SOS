@@ -8,3 +8,8 @@
 
     echo "Weee";
 ?>
+
+<br />
+<center><h1>
+<a href="indexLog.php">WWWWWWREDIRECTIONWWWWWWW</a></h1>
+</center>
