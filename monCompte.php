@@ -31,7 +31,7 @@
 
     <title>Mon compte - SOS Partenaires</title>
 
-
+    <link rel="icon" href="img/ico.ico" />
 
 </head>
 <body>

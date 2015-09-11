@@ -17,6 +17,7 @@
 
     <script src="bootstrap-3.3.5-dist/js/bootstrap.js"></script>
 
+    <link rel="icon" href="img/ico.ico" />
 
     <title>Connexion - SOS Partenaires</title>
 

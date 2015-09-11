@@ -30,7 +30,7 @@
     <script src="bootstrap-3.3.5-dist/js/foundation/foundation.slider.js"></script>
 
 
-
+    <link rel="icon" href="img/ico.ico" />
 
 </head>
 <div class="row">
