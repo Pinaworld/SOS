@@ -40,7 +40,7 @@
         <hr/>
         <div class="row">
             <div class="large-6 columns">
-                <p>© Copyright,fictif {©BTS}</p>
+                <p>© Copyright, Fictif ©BTS</p>
             </div>
             <div class="large-6 columns">
                 <ul class="inline-list right">

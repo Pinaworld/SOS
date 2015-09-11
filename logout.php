@@ -9,4 +9,7 @@
 $auth = 0;
 
 $_SESSION = array();
-header('location:' . WEBROOT . '/' . 'index.php');
+/*
+header('location:' . WEBROOT . '/' . 'index.php'); */
+
+header("location:index.php");

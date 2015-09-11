@@ -59,7 +59,7 @@ body {
 
 body {
   /**background: #fff;*/
-  color: #222;
+  color: yellowgreen;
   cursor: auto;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-style: normal;
@@ -2724,7 +2724,7 @@ meta.foundation-mq-topbar {
   border-color: #d8d8d8;
   margin-bottom: 1.25rem;
   padding: 1.25rem;
-  background: #AAAAAA;
+  background: rgba(252,252,252,0.8);
   color: #F5F5F5; }
   .panel > :first-child {
     margin-top: 0; }
@@ -6322,3 +6322,9 @@ th.hide-for-touch {
 @media not print {
   .show-for-print {
     display: none !important; } }
+
+
+.speH4 {
+    background-color: rgba(170,170,170,0.80);
+    text-align: center;
+}

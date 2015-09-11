@@ -6,10 +6,10 @@
  * Time: 09:32
  */
 
-    echo "Weee";
+    echo "PAGE EN PRODUCTION";
 ?>
 
 <br />
 <center><h1>
-<a href="indexLog.php">WWWWWWREDIRECTIONWWWWWWW</a></h1>
+<a href="indexLog.php"><img src="img/redir.jpeg"> </a></h1>
 </center>

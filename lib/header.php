@@ -45,7 +45,7 @@
             <li><a href="partDisp.php" class="button">Partenaires disponibles</a></li>
             <li><a href="mesSports.php" class="button">Mes Sports</a></li>
             <li><a href="monCompte.php" class="button">Mon compte</a></li>
-            <li><a href="index.php" class="button">Déconnexion</a></li>
+            <li><a href="logout.php" class="button">Déconnexion</a></li>
         </ul>
     </div>
 </div>
