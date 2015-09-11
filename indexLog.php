@@ -16,26 +16,34 @@
 
     <link rel="stylesheet" href="bootstrap-3.3.5-dist/css/bootstrap.css">
 
-    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="bootstrap-3.3.5-dist/css/foundation.css">
 
     <!-- This is how you would link your custom stylesheet -->
-    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="bootstrap-3.3.5-dist/css/foundation.css">
 
     <link rel="stylesheet" href="CSSindex.css">
 
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 
-    <script src="js/vendor/modernizr.js"></script>
+    <script src="bootstrap-3.3.5-dist/js/vendor/modernizr.js"></script>
+
+    <script src="bootstrap-3.3.5-dist/js/foundation/foundation.slider.js"></script>
 
     <title>Accueil - SOS Partenaires</title>
+
+
 
 </head>
 <body>
 
 <div class="row">
-    <div class="large-3 columns">
-        <h1><img src="http://placehold.it/400x100&text=Logo"/></h1>
+    <div class="#">
+        <h1><img src="img/logo.png"/></h1>
     </div>
-    <div class="large-9 columns">
+
+    <br />
+
+    <div class="large-10 columns">
         <ul class="right button-group">
             <li><a href="#" class="button">Partenaires disponibles</a></li>
             <li><a href="#" class="button">Mes Sports</a></li>
@@ -52,7 +60,8 @@
 <div class="row">
     <div class="large-12 columns">
         <div id="slider">
-            <img src=img/sport1.jpg>
+            <img src="img/sport1.jpg" />
+            <img src="img/sport2.jpg" />
         </div>
 
         <hr/>
