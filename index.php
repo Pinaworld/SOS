@@ -54,7 +54,7 @@
                         <div class="col-lg-12">
 
 <!--CONNEXION -->
-                            <form id="login-form" action="login.php" method="post" role="form" style="display: block;">
+                            <form id="login-form" action="#" method="post" role="form" style="display: block;">
                                 <div class="form-group">
                                     <input type="text" name="username" id="username" tabindex="1" class="form-control" placeholder="Identifiant" value="">
                                 </div>
