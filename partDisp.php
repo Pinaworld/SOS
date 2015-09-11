@@ -3,9 +3,8 @@
  * Created by PhpStorm.
  * User: Benoit
  * Date: 11/09/2015
- * Time: 10:47
+ * Time: 10:44
  */
-
 
 ?>
 <!DOCTYPE html>
@@ -30,7 +29,7 @@
 
     <script src="bootstrap-3.3.5-dist/js/foundation/foundation.slider.js"></script>
 
-    <title>Mes sports - SOS Partenaires</title>
+    <title>Partenaires disponibles - SOS Partenaires</title>
 
 
 
