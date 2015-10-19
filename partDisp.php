@@ -31,7 +31,7 @@
 
     <title>Partenaires disponibles - SOS Partenaires</title>
 
-
+    <link rel="icon" href="img/ico.ico" />
 
 </head>
 <body>
